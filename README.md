@@ -1,3 +1,7 @@
+<img width="801" height="840" alt="image" src="https://github.com/user-attachments/assets/97087e87-6b47-4eca-998a-bb25b92b3417" />
+
+---
+
 # Python Chess Engine
 
 A strong chess engine built from scratch in Python, featuring a custom evaluation function and optimizations like Alpha-Beta Pruning, Transposition Tables, and Quiescence Search.
