@@ -2,8 +2,6 @@
 
 A strong chess engine built from scratch in Python, featuring a custom evaluation function and optimizations like Alpha-Beta Pruning, Transposition Tables, and Quiescence Search.
 
-![Chess Engine Preview](https://imgur.com/gallery/chessboard-0N5bwjQ#/t/chessboard)
-
 ## Features
 
 *   **Minimax Algorithm** with **Alpha-Beta Pruning**
